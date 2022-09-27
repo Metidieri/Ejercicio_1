@@ -1,61 +1,61 @@
-<!- Titulo -->
+<!-- Titulo -->
 
 # Ejercicio 1
 
-<!- Titulo 2 -->
+<!-- Titulo 2 -->
 
-## Este seria un encabezado h2
+## Encabezado h2
 
-<!- Titulo 3 -->
+<!-- Titulo 3 -->
 
-### Este seria un emcabezado h3
+### Encabezado h3
 
-<!- Comando -->
+<!-- Comando -->
 
 `ls -la`
 
-<!- Negrita -->
+<!-- Negrita -->
 
-**Negrita**
+**Texto**
 
-<!- Cursiva -->
+<!-- Cursiva -->
 
-*Cursiva*
+*Texto*
 
-<!- Enlace -->
+<!-- Enlace -->
 
 [Enlace a youtube](https://www.youtube.com/)
 
-<!- Enlace foto -->
+<!-- Enlace foto -->
 
 ![image](https://user-images.githubusercontent.com/114144260/192457670-547f3155-2fa6-46dd-a417-bbb85c15de45.png)
 
-<!- Foto desde carpeta ->
+<!-- Foto desde carpeta -->
 
 ![image2]("C:\Users\Albarregas\Desktop\compWindows\Ejercicio_1\images\elbicho.jpg")
 
-<!- Lista desordenada -->
+<!-- Lista desordenada -->
 
 ##### Ejemplo de lista desordenada
 
 * Elemento 1
 * Elemento 2
 
-<!- Lista anidada -->
+<!-- Lista anidada -->
 
 ##### Ejemplo de lista anidada
 
 * Grande
   * Pequeno
 
-<!- Lista ordenada -->
+<!-- Lista ordenada -->
 
 ##### Ejemplo de lista ordenada
 
 1. Elemento 1
 2. Elemento 2
 
-<!- Tabla -->
+<!-- Tabla -->
 
 ### Ejemplo tabla
 | Encabezado 1 | Encabezado 2 | Encabezado 3
@@ -63,6 +63,6 @@
 | Pedro | 30 | ASIR
 | Joselito | 32 | ASIR 
 
-<!- Cita -->
+<!-- Cita -->
 
 > Este texto es una cita 
