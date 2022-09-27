@@ -32,7 +32,7 @@
 
 <!-- Foto desde carpeta -->
 
-![image2]("C:\Users\Albarregas\Desktop\compWindows\Ejercicio_1\images\elbicho.jpg")
+![image2](images/elbicho.jpg)
 
 <!-- Lista desordenada -->
 
