@@ -28,7 +28,7 @@
 
 <!-- Enlace foto -->
 
-![image](https://c.tenor.com/ep4nYTfNiYkAAAAd/elbicho-cr7.gif)
+![image](https://imgresizer.eurosport.com/unsafe/1200x0/filters:format(webp):focal(1336x418:1338x416)/origin-imgresizer.eurosport.com/2020/10/15/2915566-59905288-2560-1440.jpg)
 
 <!-- Foto desde carpeta -->
 
