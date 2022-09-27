@@ -30,6 +30,10 @@
 
 ![image](https://user-images.githubusercontent.com/114144260/192457670-547f3155-2fa6-46dd-a417-bbb85c15de45.png)
 
+<!- Foto desde carpeta ->
+
+![image2]("C:\Users\Albarregas\Desktop\compWindows\images\elbicho.jpg")
+
 <!- Lista desordenada -->
 
 ##### Ejemplo de lista desordenada
