@@ -28,7 +28,7 @@
 
 <!-- Enlace foto -->
 
-![image](https://user-images.githubusercontent.com/114144260/192457670-547f3155-2fa6-46dd-a417-bbb85c15de45.png)
+![image](https://c.tenor.com/ep4nYTfNiYkAAAAd/elbicho-cr7.gif)
 
 <!-- Foto desde carpeta -->
 
